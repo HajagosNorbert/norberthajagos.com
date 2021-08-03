@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "client.js",
+    "client.mjs",
     "next.config.js"
   ],
   "files": [
